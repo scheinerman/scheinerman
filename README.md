@@ -1,4 +1,6 @@
-### Hi there 👋
+### Customized Github Profile Page
+
+Under construction.
 
 <!--
 **scheinerman/scheinerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
