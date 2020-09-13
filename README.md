@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to my GitHub site. I am a professor at Johns Hopkins working in discrete mathematics. I am also 
+Welcome to my GitHub site. I am a professor at [Johns Hopkins University](https://www.jhu.edu/) working in discrete mathematics. I am also 
 an amateur coder and Julia enthusiast. I hope you find the packages provided here useful.
 
 ## Postcardware
