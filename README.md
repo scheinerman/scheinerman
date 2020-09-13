@@ -25,6 +25,13 @@ I'm not fully comfortable with all the functionality of GitHub and my understand
 is marginal at best. If you want to add some functionality to a package, please reach out to me directly. The easiest 
 thing for me is if your new code sits in its own file.
 
+### Current Need
+
+I have recently updated my [SimpleGraphs](https://github.com/scheinerman/SimpleGraphs.jl) module to include rotation
+systems (combinatorial embeddings on orientable surfaces). I would like to have a `SimplePlanarGraphs` module (or include
+such code in `SimpleGraphs` to compute planar embeddings. Help on this would be welcome, especialy if you're a JHU 
+undergradaute student.
+
 
 
 <!--
