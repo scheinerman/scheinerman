@@ -8,7 +8,7 @@ an amateur coder and Julia enthusiast. I hope you find the packages provided her
 The packages in my GitHub are under the MIT License which is very permissive. While it is not necessary (legally)
 I do ask that if you find the code useful to send me a postcard. While I'd enjoy a real, physical postcard, an
 electronic substitute is perfectly fine. Send me a photo of your home town, your university, your dog, or whatever
-interesting image you'd like. My email address is `ers@jhu.edu`.
+interesting image you'd like. My email address is <ers@jhu.edu>.
 
 If you do send a physical postcard, please use this address:
 ```
