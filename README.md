@@ -28,7 +28,8 @@ thing for me is if your new code sits in its own file.
 ### Current Need
 
 I have recently updated my [SimpleGraphs](https://github.com/scheinerman/SimpleGraphs.jl) module to include rotation
-systems (combinatorial embeddings on orientable surfaces). I have started a bare-bones `SimplePlanarGraphs` module. 
+systems (combinatorial embeddings on orientable surfaces). I have started a bare-bones 
+[SimplePlanarGraphs](https://github.com/scheinerman/SimplePlanarGraphs.jl) module. 
 Help on this would be welcome, especialy if you're a JHU undergradaute student.
 
 
