@@ -19,6 +19,13 @@ Baltimore, MD 21218 USA
 ```
 And thanks!
 
+## Graph Theory
+
+The bulk of my code is in support of my interest in graph theory. The following diagram shows various modules available 
+here with `SimpleGraphs` being the centerpiece.
+
+[[SimpleOrgChart.png]]
+
 ## Contributing
 
 I'm not fully comfortable with all the functionality of GitHub and my understanding of pull requests (and their management)
