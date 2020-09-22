@@ -24,7 +24,7 @@ And thanks!
 The bulk of my code is in support of my interest in graph theory. The following diagram shows various modules available 
 here with `SimpleGraphs` being the centerpiece.
 
-[[SimpleOrgChart.png]]
+![](SimpleOrgChart.png)
 
 ## Contributing
 
