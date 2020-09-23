@@ -1,7 +1,11 @@
 # Welcome
 
-Welcome to my GitHub site. I am a professor at [Johns Hopkins University](https://www.jhu.edu/) working in discrete mathematics. I am also 
-an amateur coder and [Julia](https://julialang.org/) enthusiast. I hope you find the packages provided here useful.
+Welcome to my GitHub site. I am a professor at [Johns Hopkins University](https://www.jhu.edu/) working in discrete mathematics and author of
+[*The Mathematics Lover's Companion*](https://yalebooks.yale.edu/book/9780300223002/mathematics-lovers-companion) as well as several 
+other [books](https://www.ams.jhu.edu/ers/books/).
+
+
+I am also an amateur coder and [Julia](https://julialang.org/) enthusiast. I hope you find the packages provided here useful.
 
 ## Postcardware
 
@@ -10,7 +14,7 @@ I do ask that if you find the code useful to send me a postcard. While I'd enjoy
 electronic substitute is perfectly fine. Send me a photo of your home town, your university, your dog, yourself, or whatever
 interesting image you'd like. My email address is <ers@jhu.edu>.
 
-If you do send a physical postcard, please use this address:
+To send a physical postcard, please use this address:
 
 > Ed Scheinerman <br>
 > Whiting School of Engineering Dean's Office<br>
