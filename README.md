@@ -1,7 +1,7 @@
 # Welcome
 
 Welcome to my GitHub site. I am a professor at [Johns Hopkins University](https://www.jhu.edu/) working in discrete mathematics. I am also 
-an amateur coder and Julia enthusiast. I hope you find the packages provided here useful.
+an amateur coder and [Julia](https://julialang.org/) enthusiast. I hope you find the packages provided here useful.
 
 ## Postcardware
 
@@ -11,18 +11,18 @@ electronic substitute is perfectly fine. Send me a photo of your home town, your
 interesting image you'd like. My email address is <ers@jhu.edu>.
 
 If you do send a physical postcard, please use this address:
-```
-Ed Scheinerman
-Whiting School of Engineering Dean's Office
-Johns Hopkins University
-Baltimore, MD 21218 USA
-```
+
+> Ed Scheinerman <br>
+> Whiting School of Engineering Dean's Office<br>
+> Johns Hopkins University<br>
+> Baltimore, MD 21218 USA
+
 And thanks!
 
 ## Graph Theory
 
 The bulk of my code is in support of my interest in graph theory. The following diagram shows various modules (and their dependencies) available 
-here with `SimpleGraphs` being the centerpiece. (Several other modules are excluded.)
+here with [SimpleGraphs](https://github.com/scheinerman/SimpleGraphs.jl) being the centerpiece. (Several other modules are excluded.)
 
 ![](SimpleOrgChart.png)
 
