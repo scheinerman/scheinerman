@@ -1,9 +1,10 @@
 # Welcome
 
 Welcome to my GitHub site. I am a professor at [Johns Hopkins University](https://www.jhu.edu/) working in discrete mathematics. I'm the author of
-[*The Mathematics Lover's Companion*](https://www.ams.jhu.edu/ers/books/math-lovers-companion/),
-[*Mathematical Notation: A Guide for Engineers and Scientsists*](https://www.ams.jhu.edu/ers/books/mathematical-notation/),
-[*Mathematics: A Discrete Introduction](https://www.ams.jhu.edu/ers/books/mathematics-a-discrete-introduction/)
++ [*The Mathematics Lover's Companion*](https://www.ams.jhu.edu/ers/books/math-lovers-companion/),
++ [*Mathematical Notation: A Guide for Engineers and Scientsists*](https://www.ams.jhu.edu/ers/books/mathematical-notation/),
++ [*Mathematics: A Discrete Introduction*](https://www.ams.jhu.edu/ers/books/mathematics-a-discrete-introduction/)
+
 and several [others](https://www.ams.jhu.edu/ers/books/).
 
 
