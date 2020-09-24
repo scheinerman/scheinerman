@@ -28,7 +28,8 @@ And thanks!
 
 ## Graph Theory
 
-The bulk of my code is in support of my interest in graph theory. The following diagram shows various modules (and their dependencies) available 
+The bulk of my code is in support of my interest in [graph theory](https://en.wikipedia.org/wiki/Graph_theory). 
+The following diagram shows various modules (and their dependencies) available 
 here with [SimpleGraphs](https://github.com/scheinerman/SimpleGraphs.jl) being the centerpiece. (Several other modules are excluded.)
 
 ![](SimpleOrgChart.png)
