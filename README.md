@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to my GitHub site. I am a professor at [Johns Hopkins University](https://www.jhu.edu/) working in discrete mathematics and author of
+Welcome to my GitHub site. I am a professor at [Johns Hopkins University](https://www.jhu.edu/) working in discrete mathematics. I'm the author of
 [*The Mathematics Lover's Companion*](https://yalebooks.yale.edu/book/9780300223002/mathematics-lovers-companion) as well as several 
 other [books](https://www.ams.jhu.edu/ers/books/).
 
