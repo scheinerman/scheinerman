@@ -22,7 +22,7 @@ To send a physical postcard, please use this address:
 > Ed Scheinerman <br>
 > Whiting School of Engineering Dean's Office<br>
 > Johns Hopkins University<br>
-> 3500 San Matin Drive, First Floor<br>
+> 3500 San Martin Drive, First Floor<br>
 > Baltimore, MD 21218 USA
 
 And thanks!
