@@ -48,6 +48,43 @@ systems (combinatorial embeddings on orientable surfaces). I have started a bare
 [SimplePlanarGraphs](https://github.com/scheinerman/SimplePlanarGraphs.jl) module. 
 Help on this would be welcome, especialy if you're a JHU undergradaute student.
 
+## My Programming Journey
+
+Here's a list of languages I've used over the years.
+
+### Used a lot
+
+* Fortran
+* Basic
+* APL
+* PL/1
+* Z80 machine code
+* C
+* C++
+* Hypercard/AppleScript
+* Java
+* MATLAB
+* Mathematica
+* Python
+* Julia
+
+### Used a bit
+
+* SNOBOL
+* Maple
+* Perl
+* Haskell
+* bash
+
+### Markup languages
+
+* Script
+* nroff
+* LaTeX
+* HTML
+* Markdown
+
+
 
 
 <!--
