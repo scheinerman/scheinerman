@@ -72,6 +72,7 @@ Here's a list of languages I've used over the years.
 
 * SNOBOL
 * Maple
+* Pascal
 * Perl
 * Haskell
 * bash
