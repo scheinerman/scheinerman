@@ -76,6 +76,8 @@ Here's a list of languages I've used over the years.
 * Perl
 * Haskell
 * bash
+* Forth
+* Postscript
 
 ### Markup languages
 
